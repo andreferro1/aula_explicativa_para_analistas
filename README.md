@@ -13,6 +13,6 @@ segue link de apk + video:
 ##apk
 https://drive.google.com/file/d/1Mxcep446Gz5Hh_7S6BfPK_hQoyYh1Izo/view?usp=sharing
 
-##apk
-https://drive.google.com/file/d/1Mxcep446Gz5Hh_7S6BfPK_hQoyYh1Izo/view?usp=sharing
+##video
+https://drive.google.com/file/d/1VfGqG3KcUISc5uLjSf9qNBlXKLPLUehc/view?usp=sharing
 
